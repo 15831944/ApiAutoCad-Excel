@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\obj\Debug\ApiAC.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\obj\Debug\ApiAC.csproj.ResolveComReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\obj\Debug\ApiAC.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\obj\Debug\AU.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\obj\Debug\AU.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\bin\Debug\AU.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\autocadoprojeto\Exercise Files\02-Create Command\bin\Debug\AU.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\bin\Debug\AU.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\bin\Debug\AU.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\obj\Debug\ApiAC.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\obj\Debug\ApiAC.csproj.ResolveComReference.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\obj\Debug\ApiAC.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\obj\Debug\AU.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\ProjectAutoCad\ApiAutoCad\obj\Debug\AU.pdb
